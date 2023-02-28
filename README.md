@@ -1,18 +1,3 @@
-<!--
-**matveykurochkin/matveykurochkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div id="header" align="center">
   <img src="https://cdn.hyvor.com/s1/uploads/talk/user-uploads/63fdf9af787569.135079391677588911RLPyYHkUnE6FzzjFGuwK.gif" width="200"/>
 </div>
@@ -37,13 +22,13 @@ Here are some ideas to get you started:
 </div>
 
 ---
-## 👨‍💻 About Me:
+### 👨‍💻 About Me:
 <p>My name is Matvey.</p>
 
 * I am a beginning developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 * I am a student 👨‍🎓 in Vladimir State University.
 ---
-## 🛠️ Languages:
+### 🛠️ Languages:
 <p align="center">
 <a> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36"></a>
 <a> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36"/></a>
@@ -54,6 +39,6 @@ Here are some ideas to get you started:
 </p>
 
 ---
-## 🔥 My Stats:
+### 🔥 My Stats:
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=matveykurochkin&count_private=true&theme=light&showicons=true)]()
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matveykurochkin)](https://github.com/anuraghazra/github-readme-stats)
