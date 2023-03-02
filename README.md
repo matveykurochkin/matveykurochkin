@@ -40,5 +40,15 @@
 
 ---
 ### 🔥 My Stats:
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=matveykurochkin&count_private=true&theme=light&showicons=true)]()
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=matveykurochkin)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matveykurochkin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+### 🏆 My Achievements:
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=matveykurochkin)](https://github.com/matveykurochkin/github-profile-trophy)
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Subscribe+to+my+profile+on+GitHub)](https://git.io/typing-svg)
