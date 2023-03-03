@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=matveykurochkin&style=for-the-badge&color=blueviolet" />
+<img src="https://komarev.com/ghpvc/?username=matveykurochkin&style=for-the-badge&color=green" />
 </div>
 
 <h1 align="center">
