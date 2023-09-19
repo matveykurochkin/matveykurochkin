@@ -5,7 +5,7 @@
 <p align="center"> 
 <a href="https://vk.com/njfor" target="_blank" rel="noreferrer"><img src="https://free-png.ru/wp-content/uploads/2022/02/free-png.ru-306-340x340.png" width="32" height="32" /></a>
 <a href="https://www.instagram.com/matvey.kurochkin/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-<a href="https://github.com/matveykurochkin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+<a href="https://github.com/matveykurochkin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>  
 </p>
 
 <div align="center">
@@ -13,7 +13,8 @@
 </div>
 
 <h1 align="center">
-  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"/>
+  Hi there, I'm Matvey
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"/>
 </h1>
 
@@ -41,14 +42,30 @@
 ---
 ### 🔥 My Stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=matveykurochkin)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matveykurochkin" alt="GitHub Streak">
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matveykurochkin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matveykurochkin&layout=compact" alt="Top Langs">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=matveykurochkin&theme=default" alt="GitHub Profile Stats">
+</p>
+
+---
+### ⭐ My CodeWars 
+
+<div align="center">
+    <a href="https://www.codewars.com/users/matveykurochkin">
+        <img src="https://www.codewars.com/users/matveykurochkin/badges/large" alt="codewars">
+    </a>
+</div>
 
 ---
 ### 🏆 My Achievements:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=matveykurochkin)](https://github.com/matveykurochkin/github-profile-trophy)
-
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Subscribe+to+my+profile+on+GitHub)](https://git.io/typing-svg)
